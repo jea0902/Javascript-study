@@ -17,3 +17,15 @@ console.log('작은 따옴표 안에 작은따옴표를 한개만 넣으려면\'
 console.log(typeof 1);
 console.log(typeof "1");
 
+console.log("coding \n everybody");
+
+console.log("coding" + "everybody");
+
+console.log("coding" + " " + "everybody" );
+
+console.log(1+1+"1"+1);
+
+console.log("coding everybody".length);
+
+console.log("code".indexOf("c"));
+
